@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Third_Task_Inventory/Inventory/Inventory.vcxproj
+/Third_Task_Inventory/Inventory/Inventory.vcxproj.filters
+/Third_Task_Inventory/Third_Task_Inventory.sln
