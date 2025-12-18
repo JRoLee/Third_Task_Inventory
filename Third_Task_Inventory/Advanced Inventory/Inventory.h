@@ -14,12 +14,13 @@ public:
 	void printAllItems() const;
 
 	//getter
-	int GstSize() const;
+	int GetSize() const;
 	int GetCapacity() const;
 
 	private:
-	T* pItems[];
+	T* pItems;
 	int capacity;
 	int size;
 };
 
+void 
